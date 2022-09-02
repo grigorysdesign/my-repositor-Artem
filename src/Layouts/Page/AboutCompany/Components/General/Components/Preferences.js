@@ -10,7 +10,7 @@ function Preferences() {
                 'Парикмахерская'
             ]}/>
             <TitledTextInput title='Основной телефон для связи' def='+7 (912) 345-67-89'/>
-            <PrimaryButton onclick="ym(90157138,'reachGoal','Git'); return true;">Сохранить</PrimaryButton>
+            <PrimaryButton type="button" onclick="ym(XXXXXX, 'reachGoal', 'TARGET_NAME');>Сохранить</PrimaryButton>
         </div>
     );
 }
